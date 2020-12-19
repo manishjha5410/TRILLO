@@ -1,2 +1,2 @@
 # TRILLO
-An inline booking site for hotels
+An online booking site for hotels
